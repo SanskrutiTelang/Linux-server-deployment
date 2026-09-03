@@ -1,0 +1,16 @@
+# SSH private keys
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# Environment variables / secrets
+.env
+.env.*
+
+# AWS credentials
+.aws/
+
+# OS files
+.DS_Store
+Thumbs.db
